@@ -1,0 +1,30 @@
+{
+  "toDo": [
+    {
+      "kegiatan": "Netflix",
+      "detail": "Squid Game",
+      "id": 1
+    },
+    {
+      "kegiatan": "MLBB",
+      "detail": "Push Rank",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Hardi",
+      "email": "hardilee7@gmail.com",
+      "password": "1234",
+      "role": "users"
+    },
+    {
+      "name": "Budi",
+      "email": "Budi@yahoo.com",
+      "password": "12312312",
+      "role": "users",
+      "id": 2
+    }
+  ]
+}
